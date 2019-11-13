@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchCat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="x_api_key">9910c9d6-e597-4fa6-bac2-9a10ba7adc5e</string>
+</resources>
